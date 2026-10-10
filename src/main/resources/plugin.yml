@@ -1,7 +1,7 @@
 name: AddFriend
 version: 1.0.0
 main: me.companion.addfriend.AddFriendPlugin
-api-version: '1.19'
+api-version: '1.21'
 author: Companion
 description: Adds an Add Friend button to the Plots menu
 depend:
